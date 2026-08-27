@@ -3,6 +3,5 @@
 __pycache__/
 *.pyc
 .env
-credentials/*.json
 output/debug/
 output/*.csv
