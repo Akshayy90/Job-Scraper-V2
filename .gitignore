@@ -6,4 +6,3 @@ __pycache__/
 credentials/*.json
 output/debug/
 output/*.csv
-credentials/service-account.json
